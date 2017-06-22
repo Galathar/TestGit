@@ -17,8 +17,9 @@
     left: 50em;
     text-shadow: 0 0 3px #FFF, 0 0 5px #FFF;
 }
+
 .Encabezado{
-    background: #142440;
+    /*background: #142440;*/
     width: 100%;
     color: #223864;
     font-family: 'Pangolin', cursive;
