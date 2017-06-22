@@ -1,0 +1,30 @@
+ html, body{
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+    background: #142440;
+}
+.BackImg{
+    width: 100%;
+}
+
+.SubEncabezado{
+    color: #223864;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    font-size: 1.5em;
+    position: absolute;
+    top: 5em;
+    left: 50em;
+    text-shadow: 0 0 3px #FFF, 0 0 5px #FFF;
+}
+.Encabezado{
+    background: #142440;
+    width: 100%;
+    color: #223864;
+    font-family: 'Pangolin', cursive;
+    font-weight: bold;
+    font-size: 4.5em;
+    position: absolute;
+    top: 1.5em;
+    text-shadow: 0 0 3px #FFF, 0 0 5px #FFF
+}
